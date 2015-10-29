@@ -11,10 +11,9 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-//测试Git Gui
+
 allprojects {
     repositories {
         jcenter()
     }
 }
-//aaaaaaaa啊但是发热哇但是
