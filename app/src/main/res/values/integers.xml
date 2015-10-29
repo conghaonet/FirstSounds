@@ -1,0 +1,5 @@
+<resources>
+    <integer name="grid_columns">5</integer>
+    <integer name="grid_rows">3</integer>
+    <integer name="fragment_animation_duration">500</integer>
+</resources>

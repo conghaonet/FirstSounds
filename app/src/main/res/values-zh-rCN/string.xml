@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">触摸声音: 交通工具</string>
+	<string name="exit_toast">再按一次退出。</string>
+	<string name="DIALOG_APKUPDATE_TITLE">更新可用</string>
+	<string name="DIALOG_APKUPDATE_MSG">更新到最新版本。</string>
+	<string name="PROGRESS_APK_DOWNLONGING_TITLE">更新</string>
+	<string name="PROGRESS_APK_DOWNLONGING_MSG">下载中 &#8230;</string>
+	<string name="DIALOG_BUTTON_LATER">稍后再说</string>
+	<string name="DIALOG_BUTTON_UPDATE">现在更新</string>
+	
+	<string name="PREF_TITLE">设置</string>
+	<string name="PREF_UPDATE_CATEGORY_TITLE">更新</string>
+	<string name="PREF_UPDATE_TITLE">有新版本可更新</string>
+	<string name="PREF_UPDATE_SUMMAY">点击更新</string>
+	<string name="PREF_GENERAL">一般</string>
+	<string name="PREF_ANIMATION_TITLE">转场动画</string>
+	<string name="PREF_ANIMATION_SUMMARY_ON">允许全部转场动画</string>
+	<string name="PREF_ANIMATION_SUMMARY_OFF">仅淡入淡出动画</string>
+	<string name="PREF_BRIGHTNESS_TITLE">增加屏幕亮度</string>
+	<string name="PREF_BRIGHTNESS_SUMMARY_ON">自动增加屏幕亮度至80%</string>
+	<string name="PREF_BRIGHTNESS_SUMMARY_OFF">不改变屏幕亮度</string>			
+	<string name="PREF_ABOUT_TITLE">关于</string>
+	<string name="PREF_ABOUT_VERSION_TITLE">版本</string>
+	<string name="PREF_ABOUT_VERSION_SUMMARY">点击获得更多的免费应用程序</string>
+	<string name="PREF_ABOUT_RATE_TITLE">评价这个应用</string>
+	<string name="PREF_ABOUT_RATE_SUMMARY">如果您喜欢我们的应用，请支持新功能的开发给它一个5星评级！</string>
+</resources>

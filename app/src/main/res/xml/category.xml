@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <category category_name="fanchuan" res_name="fanchuan"/>
+    <category category_name="feiji" res_name="feiji"/>
+    <category category_name="gongchengche" res_name="gongchengche"/>
+    <category category_name="gonggongqiche" res_name="gonggongqiche"/>
+    <category category_name="huoche" res_name="huoche"/>
+    <category category_name="jiaoche" res_name="jiaoche"/>
+    <category category_name="jingche" res_name="jingche"/>
+    <category category_name="jiuhuche" res_name="jiuhuche"/>
+    <category category_name="kache" res_name="kache"/>
+    <category category_name="lunchuan" res_name="lunchuan"/>
+    <category category_name="motuoche" res_name="motuoche"/>
+    <category category_name="saiche" res_name="saiche"/>
+    <category category_name="tuolaji" res_name="tuolaji"/>
+    <category category_name="xiaofangche" res_name="xiaofangche"/>
+    <category category_name="zhishengji" res_name="zhishengji"/>
+</categories>

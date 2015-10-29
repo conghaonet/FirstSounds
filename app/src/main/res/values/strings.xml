@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Touch Sound: Vehicles</string>
+	<string name="ad_banner_id">ca-app-pub-3760276621756725/3665716892</string>
+	<string name="flurry_api_key">PWCMJ2SQPBX9Y2XCHYNT</string>
+	<string name="ads_xml_category_name">touchsound</string>
+	<string name="ads_xml_ad_name">vehicle</string>
+	<string name="appupdate_xml_category_name">touchsound</string>
+	<string name="appupdate_xml_package_code">vehicle</string>
+	
+	<string name="exit_toast">Press again to exit.</string>
+	<string name="DIALOG_APKUPDATE_TITLE">Update available</string>
+	<string name="DIALOG_APKUPDATE_MSG">Update to the latest version.</string>
+	<string name="PROGRESS_APK_DOWNLONGING_TITLE">Update</string>
+	<string name="PROGRESS_APK_DOWNLONGING_MSG">Downloading &#8230;</string>
+	<string name="DIALOG_BUTTON_LATER">Later</string>
+	<string name="DIALOG_BUTTON_UPDATE">Update</string>
+	
+	<string name="PREF_TITLE">SETTINGS</string>
+	<string name="PREF_UPDATE_CATEGORY_TITLE">UPDATE</string>
+	<string name="PREF_UPDATE_CATEGORY_KEY">update_category_key</string>
+	<string name="PREF_UPDATE_KEY">pref_update</string>
+	<string name="PREF_UPDATE_TITLE">Update available</string>
+	<string name="PREF_UPDATE_SUMMAY">Tap to update.</string>
+	<string name="PREF_GENERAL">GENERAL</string>
+	<string name="PREF_ANIMATION_KEY">pref_animation</string>
+	<string name="PREF_ANIMATION_TITLE">Animated transitions</string>
+	<string name="PREF_ANIMATION_SUMMARY_ON">All transitions animation appears</string>
+	<string name="PREF_ANIMATION_SUMMARY_OFF">Only fade-in and fade-out</string>
+	<string name="PREF_BRIGHTNESS_KEY">pref_brightness</string>
+	<string name="PREF_BRIGHTNESS_TITLE">Increase screen brightness</string>
+	<string name="PREF_BRIGHTNESS_SUMMARY_ON">Automatically adjust the screen brightness to 80%</string>
+	<string name="PREF_BRIGHTNESS_SUMMARY_OFF">Do not change the screen brightness</string>			
+	<string name="PREF_ABOUT_TITLE">ABOUT</string>
+	<string name="PREF_ABOUT_VERSION_KEY">pref_version</string>
+	<string name="PREF_ABOUT_VERSION_TITLE">Version</string>
+	<string name="PREF_ABOUT_VERSION_SUMMARY">Tap to get more free apps.</string>
+	<string name="PREF_ABOUT_RATE_KEY">pref_rate</string>
+	<string name="PREF_ABOUT_RATE_TITLE">Rate our game</string>
+	<string name="PREF_ABOUT_RATE_SUMMARY">If you like our game please support the development of new features by giving it a 5 star rating!</string>
+	
+	<!-- Invisible -->
+	<string name="PREF_INVISIBLE_CATEGORY_KEY">invisible_category</string>
+	<string name="PREF_APP_ISRATED_KEY">app_israted</string>
+	<string name="PREF_ADS_XML_LASTMODIFIED_KEY">ads_xml_lastmodified</string>
+	<string name="PREF_APPSUPDATE_XML_LASTMODIFIED_KEY">appsupdate_xml_lastmodified</string>
+	<string name="PREF_APK_NEWVERSION_URL_KEY">apk_newversion_url</string>
+	<string name="PREF_APK_NEWVERSION_CODE_KEY">apk_newversion_code</string>
+	<string name="PREF_APK_NEWVERSION_PACKAGE_KEY">apk_newversion_package</string>
+	<string name="PREF_APK_NEWVERSION_LASTMODIFIED_KEY">apk_newversion_lastmodified</string>
+	<string name="PREF_APK_NEWVERSION_CONTENTLENGTH_KEY">apk_newversion_contentlength</string>
+	<string name="PREF_APP_RUNTIMES_KEY">app_runtimes</string>
+	<string name="PREF_AD_UNIT_ID_KEY">ad_unit_id</string>
+	<string name="PREF_APK_VERSION_CODE_KEY">apk_version_code</string>
+</resources>
